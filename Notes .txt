@@ -1,0 +1,14 @@
+requierments
+1. Matplotlib --> done 
+2. Plotly --> done
+3. Seaborn --> done 
+4. GGplot --> need to install the lib 
+5. Altair --> need to install the lib
+6- BoKeh --> done 
+
+documentaion requirments
+
+1- explain the dataset ( be aware to explain the issue in the dataset like --> if it have a nuul value or missing). 
+2- what's use to versualize this dataset ( libaraies used ).
+3- and how to add drop menu to view each graph seprate .
+4- screenshoots for each graph and expalin it below it .
